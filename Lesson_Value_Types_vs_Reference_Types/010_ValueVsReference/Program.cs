@@ -1,9 +1,14 @@
 ﻿namespace _010_ValueVsReference
 {
+    //	CTRL+ALT+M, (1, 2, 3, 4)
     internal class Program
     {
         static void Main(string[] args)
         {
+            //unsafe
+            //{
+            //    int* pointer = &x;
+            //}
             PersonStruct personStruct = new PersonStruct { Name = "Bob" };
             ModifyPersonName(personStruct);
             Console.WriteLine($"Outside method: person.Name = {personStruct.Name} Without ref ");

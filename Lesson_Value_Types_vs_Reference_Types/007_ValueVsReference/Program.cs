@@ -1,5 +1,6 @@
 ﻿namespace _007_ValueVsReference
 {
+    //	CTRL+ALT+M, (1, 2, 3, 4)
     internal class Program
     {
         static void Main(string[] args)
