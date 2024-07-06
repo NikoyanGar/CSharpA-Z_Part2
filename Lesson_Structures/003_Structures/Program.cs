@@ -15,13 +15,13 @@
 
     struct MyStruct
     {
-        // Can't use default constructor.
-        //public MyStruct()
-        //{ }
+        //Can't use default constructor.when c# version less then 11 
+        public MyStruct()
+        { }
 
         public MyStruct(int value)
         {
-            this.field = value; // Can't add comment
+            this.field = value;
             field1 = 0;
         }
 

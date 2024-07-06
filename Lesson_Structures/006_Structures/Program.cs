@@ -13,7 +13,7 @@
 
     struct MyStruct
     {
-        static MyStruct()
+        static MyStruct()//int value parameter is not allowed
         {
             Console.WriteLine("Static Constructor.");
         }
