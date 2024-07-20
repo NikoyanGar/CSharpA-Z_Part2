@@ -127,43 +127,45 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Inheritance", "Lesson_I
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Inheritance", "Lesson_Inheritance\002_Inheritance\002_Inheritance.csproj", "{EC7DD262-B174-4D57-A7FD-023D809E140D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Inheritance", "Lesson_Inheritance\003_Inheritance\003_Inheritance.csproj", "{101B5986-7939-4F66-A49F-78D51FF1DB8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Inheritance", "Lesson_Inheritance\003_Inheritance\003_Inheritance.csproj", "{101B5986-7939-4F66-A49F-78D51FF1DB8E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Inheritance", "Lesson_Inheritance\004_Inheritance\004_Inheritance.csproj", "{FC4D1F84-A3C9-4575-9BED-43803C4B6BFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Inheritance", "Lesson_Inheritance\004_Inheritance\004_Inheritance.csproj", "{FC4D1F84-A3C9-4575-9BED-43803C4B6BFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Inheritance", "Lesson_Inheritance\005_Inheritance\005_Inheritance.csproj", "{B0C4934D-5C80-439C-9E5B-B1F4A2A710FF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Inheritance", "Lesson_Inheritance\005_Inheritance\005_Inheritance.csproj", "{B0C4934D-5C80-439C-9E5B-B1F4A2A710FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Inheritance", "Lesson_Inheritance\006_Inheritance\006_Inheritance.csproj", "{6919510B-8FA6-4317-9A6B-9180EBF86436}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Inheritance", "Lesson_Inheritance\006_Inheritance\006_Inheritance.csproj", "{6919510B-8FA6-4317-9A6B-9180EBF86436}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Inheritance", "Lesson_Inheritance\007_Inheritance\007_Inheritance.csproj", "{38B33F28-C814-4F6A-B349-B603334AA71C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Inheritance", "Lesson_Inheritance\007_Inheritance\007_Inheritance.csproj", "{38B33F28-C814-4F6A-B349-B603334AA71C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Inheritance", "Lesson_Inheritance\008_Inheritance\008_Inheritance.csproj", "{986686B0-99B0-4111-87E8-98571645F2F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Inheritance", "Lesson_Inheritance\008_Inheritance\008_Inheritance.csproj", "{986686B0-99B0-4111-87E8-98571645F2F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Inheritance", "Lesson_Inheritance\009_Inheritance\009_Inheritance.csproj", "{60567977-67DD-4B38-BA4E-62D4BB43BD16}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Inheritance", "Lesson_Inheritance\009_Inheritance\009_Inheritance.csproj", "{60567977-67DD-4B38-BA4E-62D4BB43BD16}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Inheritance", "Lesson_Inheritance\010_Inheritance\010_Inheritance.csproj", "{D318B114-82B5-42C6-962C-42F5F016F1DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Inheritance", "Lesson_Inheritance\010_Inheritance\010_Inheritance.csproj", "{D318B114-82B5-42C6-962C-42F5F016F1DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Inheritance", "Lesson_Inheritance\011_Inheritance\011_Inheritance.csproj", "{51863514-904A-40E5-8AF9-99B2A61849A8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Inheritance", "Lesson_Inheritance\011_Inheritance\011_Inheritance.csproj", "{51863514-904A-40E5-8AF9-99B2A61849A8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Inheritance", "Lesson_Inheritance\012_Inheritance\012_Inheritance.csproj", "{459ECC76-E97E-4559-B838-0F203393793E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_Inheritance", "Lesson_Inheritance\012_Inheritance\012_Inheritance.csproj", "{459ECC76-E97E-4559-B838-0F203393793E}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Reflection", "Lesson_Reflection", "{340539BF-9C4A-4321-87D9-505213A86ACC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Reflection", "Lesson_Reflection\001_Reflection\001_Reflection.csproj", "{0522C8FE-CEA9-4923-B91E-88ACC6B8E5A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Reflection", "Lesson_Reflection\001_Reflection\001_Reflection.csproj", "{0522C8FE-CEA9-4923-B91E-88ACC6B8E5A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Reflection", "Lesson_Reflection\002_Reflection\002_Reflection.csproj", "{85B08022-61E3-4769-8E30-069DD99A4DB4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Reflection", "Lesson_Reflection\002_Reflection\002_Reflection.csproj", "{85B08022-61E3-4769-8E30-069DD99A4DB4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Reflection", "Lesson_Reflection\003_Reflection\003_Reflection.csproj", "{F027AB01-8516-40D2-A88F-0D9A8323DD4D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Reflection", "Lesson_Reflection\003_Reflection\003_Reflection.csproj", "{F027AB01-8516-40D2-A88F-0D9A8323DD4D}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Attributes", "Lesson_Attributes", "{CC82B572-0BAD-4CF3-9818-A91CB106B127}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Attributes", "Lesson_Attributes\001_Attributes\001_Attributes.csproj", "{49A62D62-109F-49C8-8D07-627F860414D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Attributes", "Lesson_Attributes\001_Attributes\001_Attributes.csproj", "{49A62D62-109F-49C8-8D07-627F860414D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Attributes", "Lesson_Attributes\002_Attributes\002_Attributes.csproj", "{B457F3D0-9F37-4B69-8268-2DEF55215236}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Attributes", "Lesson_Attributes\002_Attributes\002_Attributes.csproj", "{B457F3D0-9F37-4B69-8268-2DEF55215236}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Attributes", "Lesson_Attributes\003_Attributes\003_Attributes.csproj", "{21F92296-21B3-456B-AFB3-5A1BB97DAB96}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Attributes", "Lesson_Attributes\003_Attributes\003_Attributes.csproj", "{21F92296-21B3-456B-AFB3-5A1BB97DAB96}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Attributes", "Lesson_Attributes\004_Attributes\004_Attributes.csproj", "{B82207D4-0FD5-4A26-8487-1E38B2A75407}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Attributes", "Lesson_Attributes\004_Attributes\004_Attributes.csproj", "{B82207D4-0FD5-4A26-8487-1E38B2A75407}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversityTest1", "UniversityTest1\UniversityTest1.csproj", "{27575B2E-1742-45C7-B4DD-32BCD15A2B44}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -459,6 +461,10 @@ Global
 		{B82207D4-0FD5-4A26-8487-1E38B2A75407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82207D4-0FD5-4A26-8487-1E38B2A75407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82207D4-0FD5-4A26-8487-1E38B2A75407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27575B2E-1742-45C7-B4DD-32BCD15A2B44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27575B2E-1742-45C7-B4DD-32BCD15A2B44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27575B2E-1742-45C7-B4DD-32BCD15A2B44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27575B2E-1742-45C7-B4DD-32BCD15A2B44}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
