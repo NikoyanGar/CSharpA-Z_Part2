@@ -5,8 +5,7 @@ class Program
 {
     static void Main(string[] args)
     {
-        //TraverseTree(@"C:\Users\user\source\repos");
-        TraverseTree(@"C:\Users\Asus\OneDrive - HighWay CJSC\Desktop\teach\CSharpA-Z_Part2\Lesson_DataStructures\Stack\004_Stack_TraverseTree");
+        TraverseTree(@"C:\Users\user\source\repos");
 
         Console.ReadLine();
     }

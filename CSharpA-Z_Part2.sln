@@ -169,95 +169,109 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversityTest1", "Universi
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Generics", "Lesson_Generics", "{B80D5D18-D94C-44D8-8658-9FE197C6E12C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Generics", "Lesson_Generics\001_Generics\001_Generics.csproj", "{CD1C8E6C-F384-4E6A-8381-45799CDE81F2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Generics", "Lesson_Generics\001_Generics\001_Generics.csproj", "{CD1C8E6C-F384-4E6A-8381-45799CDE81F2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Generics", "Lesson_Generics\002_Generics\002_Generics.csproj", "{12B7632E-148B-40D8-A91A-C3260E872916}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Generics", "Lesson_Generics\002_Generics\002_Generics.csproj", "{12B7632E-148B-40D8-A91A-C3260E872916}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Generics", "Lesson_Generics\003_Generics\003_Generics.csproj", "{BCE4058B-D735-4E75-9173-67C821F65E28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Generics", "Lesson_Generics\003_Generics\003_Generics.csproj", "{BCE4058B-D735-4E75-9173-67C821F65E28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Generics", "Lesson_Generics\004_Generics\004_Generics.csproj", "{88606BD2-BF34-4313-9B0A-997E41D48065}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Generics", "Lesson_Generics\004_Generics\004_Generics.csproj", "{88606BD2-BF34-4313-9B0A-997E41D48065}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Generics", "Lesson_Generics\005_Generics\005_Generics.csproj", "{87CD8C9C-8CEE-4BB7-9708-C5A528315B63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Generics", "Lesson_Generics\005_Generics\005_Generics.csproj", "{87CD8C9C-8CEE-4BB7-9708-C5A528315B63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Generics", "Lesson_Generics\006_Generics\006_Generics.csproj", "{B25ECD05-26B4-4DAA-BA14-333372BA1212}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Generics", "Lesson_Generics\006_Generics\006_Generics.csproj", "{B25ECD05-26B4-4DAA-BA14-333372BA1212}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Generics", "Lesson_Generics\007_Generics\007_Generics.csproj", "{5D74DCF9-37EA-41DC-8D97-8E19ED30856A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Generics", "Lesson_Generics\007_Generics\007_Generics.csproj", "{5D74DCF9-37EA-41DC-8D97-8E19ED30856A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Generics", "Lesson_Generics\008_Generics\008_Generics.csproj", "{7937AF1B-3177-4835-9ACB-A14C946A0C4B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Generics", "Lesson_Generics\008_Generics\008_Generics.csproj", "{7937AF1B-3177-4835-9ACB-A14C946A0C4B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Generics_Contravariance", "Lesson_Generics\009_Generics_Contravariance\009_Generics_Contravariance.csproj", "{F382251C-9B3C-4B4A-82DF-6196E5A0BBF8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Generics_Contravariance", "Lesson_Generics\009_Generics_Contravariance\009_Generics_Contravariance.csproj", "{F382251C-9B3C-4B4A-82DF-6196E5A0BBF8}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Collections", "Lesson_Collections", "{B146E6C4-97C7-47D1-9989-CC39EBDE7982}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Enumerable", "Lesson_Collections\001_Enumerable\001_Enumerable.csproj", "{19A176BA-23AF-4B8C-8730-C73CC9C236E0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Enumerable", "Lesson_Collections\001_Enumerable\001_Enumerable.csproj", "{19A176BA-23AF-4B8C-8730-C73CC9C236E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Enumerable", "Lesson_Collections\002_Enumerable\002_Enumerable.csproj", "{649E57CD-D025-46F0-B145-0859FF67465F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Enumerable", "Lesson_Collections\002_Enumerable\002_Enumerable.csproj", "{649E57CD-D025-46F0-B145-0859FF67465F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Enumerable", "Lesson_Collections\003_Enumerable\003_Enumerable.csproj", "{E3B1CD58-54C4-4ACE-A226-738442397263}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Enumerable", "Lesson_Collections\003_Enumerable\003_Enumerable.csproj", "{E3B1CD58-54C4-4ACE-A226-738442397263}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Enumerable", "Lesson_Collections\004_Enumerable\004_Enumerable.csproj", "{32E03B60-A172-45D9-9349-5C012F943F79}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Enumerable", "Lesson_Collections\004_Enumerable\004_Enumerable.csproj", "{32E03B60-A172-45D9-9349-5C012F943F79}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Enumerable", "Lesson_Collections\005_Enumerable\005_Enumerable.csproj", "{823EFCF2-123F-4043-A19A-BAA31591FAF6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Enumerable", "Lesson_Collections\005_Enumerable\005_Enumerable.csproj", "{823EFCF2-123F-4043-A19A-BAA31591FAF6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Enumerable", "Lesson_Collections\006_Enumerable\006_Enumerable.csproj", "{082C8C2F-A7F7-4286-94A7-9EF19121FCA8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Enumerable", "Lesson_Collections\006_Enumerable\006_Enumerable.csproj", "{082C8C2F-A7F7-4286-94A7-9EF19121FCA8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Enumerable_IReadOnlyCollection", "Lesson_Collections\007_Enumerable_IReadOnlyCollection\007_Enumerable_IReadOnlyCollection.csproj", "{43459341-5565-4BC7-8BD9-E15F133EBF0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Enumerable_IReadOnlyCollection", "Lesson_Collections\007_Enumerable_IReadOnlyCollection\007_Enumerable_IReadOnlyCollection.csproj", "{43459341-5565-4BC7-8BD9-E15F133EBF0C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_yield", "Lesson_Collections\008_yield\008_yield.csproj", "{C79DB5E2-BC27-497E-99DA-AD9745FBB7F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_yield", "Lesson_Collections\008_yield\008_yield.csproj", "{C79DB5E2-BC27-497E-99DA-AD9745FBB7F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_yield", "Lesson_Collections\009_yield\009_yield.csproj", "{DDC305D9-81E5-45C7-A54B-6CBE4C291179}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_yield", "Lesson_Collections\009_yield\009_yield.csproj", "{DDC305D9-81E5-45C7-A54B-6CBE4C291179}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Yield_Enumerable", "Lesson_Collections\010_Yield_Enumerable\010_Yield_Enumerable.csproj", "{F2129184-8059-40AA-9A68-052AC9F04BBC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Yield_Enumerable", "Lesson_Collections\010_Yield_Enumerable\010_Yield_Enumerable.csproj", "{F2129184-8059-40AA-9A68-052AC9F04BBC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Yield_DataRepository", "Lesson_Collections\011_Yield_DataRepository\011_Yield_DataRepository.csproj", "{6EA1D80C-AC27-4F45-8C2D-9635B49CCA5A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Yield_DataRepository", "Lesson_Collections\011_Yield_DataRepository\011_Yield_DataRepository.csproj", "{6EA1D80C-AC27-4F45-8C2D-9635B49CCA5A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_yield", "Lesson_Collections\011_yield\011_yield.csproj", "{5173D6FA-38BC-4E86-8D05-5A428FC2B1E1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_yield", "Lesson_Collections\011_yield\011_yield.csproj", "{5173D6FA-38BC-4E86-8D05-5A428FC2B1E1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_Yield_Stream", "Lesson_Collections\012_Yield_Stream\012_Yield_Stream.csproj", "{481DFB26-97FF-4007-BBFA-A354D577B4B5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_Yield_Stream", "Lesson_Collections\012_Yield_Stream\012_Yield_Stream.csproj", "{481DFB26-97FF-4007-BBFA-A354D577B4B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "012_yield", "Lesson_Collections\012_yield\012_yield.csproj", "{A63D2E24-425A-4F13-9D3F-510AA4649945}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "012_yield", "Lesson_Collections\012_yield\012_yield.csproj", "{A63D2E24-425A-4F13-9D3F-510AA4649945}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_DataStructures", "Lesson_DataStructures", "{71E0DDF3-3E07-43ED-8D63-6CB987BC0A48}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "List", "List", "{7C7220A8-A1EF-4057-93B2-2DCD47BE8E1E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_List", "Lesson_DataStructures\List\001_List\001_List.csproj", "{78D9FEF1-B815-410B-A5B4-3497AF82D54F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_List", "Lesson_DataStructures\List\001_List\001_List.csproj", "{78D9FEF1-B815-410B-A5B4-3497AF82D54F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_List", "Lesson_DataStructures\List\002_List\002_List.csproj", "{D644E96A-0617-47EA-B62D-6610CBF0E35C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_List", "Lesson_DataStructures\List\002_List\002_List.csproj", "{D644E96A-0617-47EA-B62D-6610CBF0E35C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_List", "Lesson_DataStructures\List\003_List\003_List.csproj", "{F25EE6BB-4F74-4B2A-B17C-306368E4CEA4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_List", "Lesson_DataStructures\List\003_List\003_List.csproj", "{F25EE6BB-4F74-4B2A-B17C-306368E4CEA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_List_Insert", "Lesson_DataStructures\List\004_List_Insert\004_List_Insert.csproj", "{96523D6A-2B75-4142-8329-CB70F5D860F5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_List_Insert", "Lesson_DataStructures\List\004_List_Insert\004_List_Insert.csproj", "{96523D6A-2B75-4142-8329-CB70F5D860F5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_ArrayList_Remove", "Lesson_DataStructures\List\005_ArrayList_Remove\005_ArrayList_Remove.csproj", "{A9ACFD49-1BE4-468D-935E-125EDE9D1A43}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_ArrayList_Remove", "Lesson_DataStructures\List\005_ArrayList_Remove\005_ArrayList_Remove.csproj", "{A9ACFD49-1BE4-468D-935E-125EDE9D1A43}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_ArrayList_Enumerator", "Lesson_DataStructures\List\006_ArrayList_Enumerator\006_ArrayList_Enumerator.csproj", "{F97A3EC1-44E6-4C75-B587-3C8E95AB5EC7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_ArrayList_Enumerator", "Lesson_DataStructures\List\006_ArrayList_Enumerator\006_ArrayList_Enumerator.csproj", "{F97A3EC1-44E6-4C75-B587-3C8E95AB5EC7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkedList", "LinkedList", "{A585FDC4-947A-4ADE-ADE9-34C6EF2451E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_LinkedList", "Lesson_DataStructures\LinkedList\001_LinkedList\001_LinkedList.csproj", "{76AAA1A2-EE05-4627-B913-88299E838376}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_LinkedList", "Lesson_DataStructures\LinkedList\001_LinkedList\001_LinkedList.csproj", "{76AAA1A2-EE05-4627-B913-88299E838376}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_LinkedList", "Lesson_DataStructures\LinkedList\002_LinkedList\002_LinkedList.csproj", "{65CC8C0E-1E9B-4B5F-BB46-49658F1F1540}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_LinkedList", "Lesson_DataStructures\LinkedList\002_LinkedList\002_LinkedList.csproj", "{65CC8C0E-1E9B-4B5F-BB46-49658F1F1540}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_LinkedList_Benchmark", "Lesson_DataStructures\LinkedList\003_LinkedList_Benchmark\003_LinkedList_Benchmark.csproj", "{27C1D125-95F6-4553-9D82-DE765A7D5352}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_LinkedList_Benchmark", "Lesson_DataStructures\LinkedList\003_LinkedList_Benchmark\003_LinkedList_Benchmark.csproj", "{27C1D125-95F6-4553-9D82-DE765A7D5352}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Queue", "Queue", "{6602F438-1D07-4F05-8504-A62133290942}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Queue", "Lesson_DataStructures\Queue\001_Queue\001_Queue.csproj", "{46E2A80A-B43A-4E29-83C4-C41FE0D7BDFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Queue", "Lesson_DataStructures\Queue\001_Queue\001_Queue.csproj", "{46E2A80A-B43A-4E29-83C4-C41FE0D7BDFE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Queue", "Lesson_DataStructures\Queue\002_Queue\002_Queue.csproj", "{A76E1E55-6EB9-4D6C-84B0-1B1FF4811EEB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Queue", "Lesson_DataStructures\Queue\002_Queue\002_Queue.csproj", "{A76E1E55-6EB9-4D6C-84B0-1B1FF4811EEB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Queue", "Lesson_DataStructures\Queue\003_Queue\003_Queue.csproj", "{50EBFFAB-4723-4140-B782-62DEC318D5E7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Queue", "Lesson_DataStructures\Queue\003_Queue\003_Queue.csproj", "{50EBFFAB-4723-4140-B782-62DEC318D5E7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Stack", "Stack", "{4137FC56-22A8-4C0C-83BA-7A6E99883215}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Stack", "Lesson_DataStructures\Stack\001_Stack\001_Stack.csproj", "{B4A06694-938E-49EC-8A35-F2F97FACC47C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Stack", "Lesson_DataStructures\Stack\001_Stack\001_Stack.csproj", "{B4A06694-938E-49EC-8A35-F2F97FACC47C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Stack", "Lesson_DataStructures\Stack\002_Stack\002_Stack.csproj", "{3D4AC3DD-99CA-440B-A915-C09B36347A97}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Stack", "Lesson_DataStructures\Stack\002_Stack\002_Stack.csproj", "{3D4AC3DD-99CA-440B-A915-C09B36347A97}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Stack", "Lesson_DataStructures\Stack\003_Stack\003_Stack.csproj", "{B2CE9411-2CDB-4944-8F8B-C6C694DD66D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Stack", "Lesson_DataStructures\Stack\003_Stack\003_Stack.csproj", "{B2CE9411-2CDB-4944-8F8B-C6C694DD66D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Stack_TraverseTree", "Lesson_DataStructures\Stack\004_Stack_TraverseTree\004_Stack_TraverseTree.csproj", "{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Stack_TraverseTree", "Lesson_DataStructures\Stack\004_Stack_TraverseTree\004_Stack_TraverseTree.csproj", "{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Abstract_Classes", "Lesson_Abstract_Classes", "{A93771BE-2836-4AD7-B7D1-AA3EA1085E15}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Abstract_Classes", "Lesson_Abstract_Classes\001_Abstract_Classes\001_Abstract_Classes.csproj", "{B23AADAD-8C30-49FB-B5F6-F72547E335CB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Abstract_Classes", "Lesson_Abstract_Classes\002_Abstract_Classes\002_Abstract_Classes.csproj", "{716FCE53-CCE5-44A9-9025-E4BD078CA0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Abstract_Classes", "Lesson_Abstract_Classes\003_Abstract_Classes\003_Abstract_Classes.csproj", "{8325CC52-60F0-46BE-AA43-94E50EDFA126}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Abstract_Classes", "Lesson_Abstract_Classes\004_Abstract_Classes\004_Abstract_Classes.csproj", "{A270F253-D83E-42A9-8CA9-E925FC1698B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Abstract_Classes", "Lesson_Abstract_Classes\005_Abstract_Classes\005_Abstract_Classes.csproj", "{E784272F-2CE9-49CA-9022-CA74FFD274D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Abstract_Classes", "Lesson_Abstract_Classes\006_Abstract_Classes\006_Abstract_Classes.csproj", "{E25251E2-CC3D-4268-9FB0-1866004E69A2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -713,6 +727,30 @@ Global
 		{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B23AADAD-8C30-49FB-B5F6-F72547E335CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B23AADAD-8C30-49FB-B5F6-F72547E335CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B23AADAD-8C30-49FB-B5F6-F72547E335CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B23AADAD-8C30-49FB-B5F6-F72547E335CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{716FCE53-CCE5-44A9-9025-E4BD078CA0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{716FCE53-CCE5-44A9-9025-E4BD078CA0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{716FCE53-CCE5-44A9-9025-E4BD078CA0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{716FCE53-CCE5-44A9-9025-E4BD078CA0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8325CC52-60F0-46BE-AA43-94E50EDFA126}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8325CC52-60F0-46BE-AA43-94E50EDFA126}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8325CC52-60F0-46BE-AA43-94E50EDFA126}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8325CC52-60F0-46BE-AA43-94E50EDFA126}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A270F253-D83E-42A9-8CA9-E925FC1698B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A270F253-D83E-42A9-8CA9-E925FC1698B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A270F253-D83E-42A9-8CA9-E925FC1698B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A270F253-D83E-42A9-8CA9-E925FC1698B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E784272F-2CE9-49CA-9022-CA74FFD274D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E784272F-2CE9-49CA-9022-CA74FFD274D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E784272F-2CE9-49CA-9022-CA74FFD274D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E784272F-2CE9-49CA-9022-CA74FFD274D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E25251E2-CC3D-4268-9FB0-1866004E69A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E25251E2-CC3D-4268-9FB0-1866004E69A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E25251E2-CC3D-4268-9FB0-1866004E69A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E25251E2-CC3D-4268-9FB0-1866004E69A2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -833,6 +871,12 @@ Global
 		{3D4AC3DD-99CA-440B-A915-C09B36347A97} = {4137FC56-22A8-4C0C-83BA-7A6E99883215}
 		{B2CE9411-2CDB-4944-8F8B-C6C694DD66D1} = {4137FC56-22A8-4C0C-83BA-7A6E99883215}
 		{65AE86E4-1FD7-4D7F-9D21-0EECE2A13630} = {4137FC56-22A8-4C0C-83BA-7A6E99883215}
+		{B23AADAD-8C30-49FB-B5F6-F72547E335CB} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
+		{716FCE53-CCE5-44A9-9025-E4BD078CA0EA} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
+		{8325CC52-60F0-46BE-AA43-94E50EDFA126} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
+		{A270F253-D83E-42A9-8CA9-E925FC1698B7} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
+		{E784272F-2CE9-49CA-9022-CA74FFD274D2} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
+		{E25251E2-CC3D-4268-9FB0-1866004E69A2} = {A93771BE-2836-4AD7-B7D1-AA3EA1085E15}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECC42B67-0468-480F-AED4-ABBEDE5644AB}
