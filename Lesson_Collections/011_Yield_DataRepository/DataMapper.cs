@@ -1,4 +1,6 @@
-﻿namespace _011_Yield_DataRepository
+﻿using System.Data;
+
+namespace _011_Yield_DataRepository
 {
     public static class DataMapper
     {
