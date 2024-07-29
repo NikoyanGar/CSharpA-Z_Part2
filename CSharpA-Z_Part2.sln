@@ -345,23 +345,41 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AssemblyOne", "Lesson_Acces
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Interfaces", "Lesson_Interfaces", "{FA09F867-C811-44AA-9625-BB31C9DD468F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Interfaces", "Lesson_Interfaces\001_Interfaces\001_Interfaces.csproj", "{39218CAE-A470-4790-BE38-2D484636B0C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Interfaces", "Lesson_Interfaces\001_Interfaces\001_Interfaces.csproj", "{39218CAE-A470-4790-BE38-2D484636B0C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Interfaces", "Lesson_Interfaces\002_Interfaces\002_Interfaces.csproj", "{5E0AF950-B449-4FF8-BF8D-DE842F098A32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Interfaces", "Lesson_Interfaces\002_Interfaces\002_Interfaces.csproj", "{5E0AF950-B449-4FF8-BF8D-DE842F098A32}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Interfaces", "Lesson_Interfaces\003_Interfaces\003_Interfaces.csproj", "{EE88B990-EF19-4E71-B9DA-EBB6FF220EB9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Interfaces", "Lesson_Interfaces\003_Interfaces\003_Interfaces.csproj", "{EE88B990-EF19-4E71-B9DA-EBB6FF220EB9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Interfaces", "Lesson_Interfaces\004_Interfaces\004_Interfaces.csproj", "{E3005953-2EE6-4083-A812-964F519E6CF1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Interfaces", "Lesson_Interfaces\004_Interfaces\004_Interfaces.csproj", "{E3005953-2EE6-4083-A812-964F519E6CF1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Interfaces_CSharp8Features", "Lesson_Interfaces\005_Interfaces_CSharp8Features\005_Interfaces_CSharp8Features.csproj", "{D858374D-44CF-4CC5-8007-EEB58F149A49}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Interfaces_CSharp8Features", "Lesson_Interfaces\005_Interfaces_CSharp8Features\005_Interfaces_CSharp8Features.csproj", "{D858374D-44CF-4CC5-8007-EEB58F149A49}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Interfaces_CSharp8Features_Practice", "Lesson_Interfaces\006_Interfaces_CSharp8Features_Practice\006_Interfaces_CSharp8Features_Practice.csproj", "{30E4880C-4707-454F-BD53-B180C446C7A1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Interfaces_CSharp8Features_Practice", "Lesson_Interfaces\006_Interfaces_CSharp8Features_Practice\006_Interfaces_CSharp8Features_Practice.csproj", "{30E4880C-4707-454F-BD53-B180C446C7A1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Interfaces", "Lesson_Interfaces\007_Interfaces\007_Interfaces.csproj", "{CA937B4E-23F3-44DB-8836-6D24674131E5}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Interfaces", "Lesson_Interfaces\007_Interfaces\007_Interfaces.csproj", "{CA937B4E-23F3-44DB-8836-6D24674131E5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Interfaces", "Lesson_Interfaces\008_Interfaces\008_Interfaces.csproj", "{8422C39B-19DC-41A5-BC81-C56F34F6C617}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Interfaces", "Lesson_Interfaces\008_Interfaces\008_Interfaces.csproj", "{8422C39B-19DC-41A5-BC81-C56F34F6C617}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Interfaces", "Lesson_Interfaces\009_Interfaces\009_Interfaces.csproj", "{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Interfaces", "Lesson_Interfaces\009_Interfaces\009_Interfaces.csproj", "{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass", "{AFA737AD-FDA0-441E-9891-EE4DC143EAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\001_Interface_vs_AbstractClass\001_Interface_vs_AbstractClass.csproj", "{C22B0360-1D63-4583-AEE9-ED64A86DE2DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\002_Interface_vs_AbstractClass\002_Interface_vs_AbstractClass.csproj", "{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\003_Interface_vs_AbstractClass\003_Interface_vs_AbstractClass.csproj", "{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\004_Interface_vs_AbstractClass\004_Interface_vs_AbstractClass.csproj", "{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\005_Interface_vs_AbstractClass\005_Interface_vs_AbstractClass.csproj", "{10262643-ED8F-46D6-B455-F5CC0E32B076}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\006_Interface_vs_AbstractClass\006_Interface_vs_AbstractClass.csproj", "{B27FFD13-F799-4F57-94E3-1134D69C8E53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\007_Interface_vs_AbstractClass\007_Interface_vs_AbstractClass.csproj", "{126D20D5-6D35-48DB-A4CD-6B991222CDD5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Interface_vs_AbstractClass", "Lesson_Interface_vs_AbstractClass\008_Interface_vs_AbstractClass\008_Interface_vs_AbstractClass.csproj", "{F0768DEA-607C-41BA-A25A-A44EA668CCF5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -985,6 +1003,38 @@ Global
 		{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C22B0360-1D63-4583-AEE9-ED64A86DE2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22B0360-1D63-4583-AEE9-ED64A86DE2DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22B0360-1D63-4583-AEE9-ED64A86DE2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22B0360-1D63-4583-AEE9-ED64A86DE2DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{10262643-ED8F-46D6-B455-F5CC0E32B076}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{10262643-ED8F-46D6-B455-F5CC0E32B076}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{10262643-ED8F-46D6-B455-F5CC0E32B076}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{10262643-ED8F-46D6-B455-F5CC0E32B076}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27FFD13-F799-4F57-94E3-1134D69C8E53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27FFD13-F799-4F57-94E3-1134D69C8E53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27FFD13-F799-4F57-94E3-1134D69C8E53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27FFD13-F799-4F57-94E3-1134D69C8E53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{126D20D5-6D35-48DB-A4CD-6B991222CDD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{126D20D5-6D35-48DB-A4CD-6B991222CDD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{126D20D5-6D35-48DB-A4CD-6B991222CDD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{126D20D5-6D35-48DB-A4CD-6B991222CDD5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0768DEA-607C-41BA-A25A-A44EA668CCF5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0768DEA-607C-41BA-A25A-A44EA668CCF5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0768DEA-607C-41BA-A25A-A44EA668CCF5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0768DEA-607C-41BA-A25A-A44EA668CCF5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1153,6 +1203,14 @@ Global
 		{CA937B4E-23F3-44DB-8836-6D24674131E5} = {FA09F867-C811-44AA-9625-BB31C9DD468F}
 		{8422C39B-19DC-41A5-BC81-C56F34F6C617} = {FA09F867-C811-44AA-9625-BB31C9DD468F}
 		{4DB3EBCE-9440-4B51-AB08-1A4183FFB77C} = {FA09F867-C811-44AA-9625-BB31C9DD468F}
+		{C22B0360-1D63-4583-AEE9-ED64A86DE2DA} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{F080AAB9-2BF3-4294-B940-EF6BAE56FAFE} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{BB9315B0-457A-42E0-A7EF-FD21DCEBAED5} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{47BAA2A3-F716-43F6-B9D9-D71AB090BFF4} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{10262643-ED8F-46D6-B455-F5CC0E32B076} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{B27FFD13-F799-4F57-94E3-1134D69C8E53} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{126D20D5-6D35-48DB-A4CD-6B991222CDD5} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
+		{F0768DEA-607C-41BA-A25A-A44EA668CCF5} = {AFA737AD-FDA0-441E-9891-EE4DC143EAFE}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECC42B67-0468-480F-AED4-ABBEDE5644AB}
