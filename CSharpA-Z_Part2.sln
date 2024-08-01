@@ -421,6 +421,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_IEnumerable", "Lesson_I
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_IEnumerable", "Lesson_IEnumerable\006_IEnumerable\006_IEnumerable.csproj", "{E52337EC-819A-4002-A8EA-45971F00FE0E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_IEnumerable", "Lesson_IEnumerable\007_IEnumerable\007_IEnumerable.csproj", "{3DE1A13B-5DB0-4228-ACC1-8986824C0949}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -1143,6 +1145,10 @@ Global
 		{E52337EC-819A-4002-A8EA-45971F00FE0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E52337EC-819A-4002-A8EA-45971F00FE0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E52337EC-819A-4002-A8EA-45971F00FE0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DE1A13B-5DB0-4228-ACC1-8986824C0949}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DE1A13B-5DB0-4228-ACC1-8986824C0949}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DE1A13B-5DB0-4228-ACC1-8986824C0949}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DE1A13B-5DB0-4228-ACC1-8986824C0949}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1336,6 +1342,7 @@ Global
 		{F231E55F-F457-4499-B266-2B1D12D8B45F} = {DD58B6AF-D95F-4E5B-93CA-4E8F927EFF24}
 		{A065B0D7-5E85-450A-A351-A03B871F9584} = {DD58B6AF-D95F-4E5B-93CA-4E8F927EFF24}
 		{E52337EC-819A-4002-A8EA-45971F00FE0E} = {DD58B6AF-D95F-4E5B-93CA-4E8F927EFF24}
+		{3DE1A13B-5DB0-4228-ACC1-8986824C0949} = {DD58B6AF-D95F-4E5B-93CA-4E8F927EFF24}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECC42B67-0468-480F-AED4-ABBEDE5644AB}
