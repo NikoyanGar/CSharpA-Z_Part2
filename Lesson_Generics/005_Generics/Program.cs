@@ -23,7 +23,7 @@
         T Figure { get; set; }
     }
 
-    public class Container<T> : IContainer<T>
+    public class Container<T> : IContainer<T> where T : Shape
     {
         public T Figure { get; set; }
 
