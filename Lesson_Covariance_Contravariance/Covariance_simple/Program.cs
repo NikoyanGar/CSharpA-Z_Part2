@@ -12,7 +12,7 @@
             MyCatsCollection originalCatCollection = new MyCatsCollection();
             originalCatCollection.Add(new Cat() { Id = 1, Name = "cat0" });
             originalCatCollection.Add(new Cat() { Id = 2, Name = "cat1" });
-            originalCatCollection.Add(new Cat() { Id = 3, Name = "cat2" });
+            originalCatCollection.Add(new Cat() { Id = 16, Name = "cat2" });
 
             MyDogsCollection originalDogCollection = new MyDogsCollection();
             originalDogCollection.Add(new Dog() { Id = 4, Name = "dog0" });
@@ -26,18 +26,18 @@
             Animal animal = covariantWithBaseType.Get(0);
 
             List<Animal> animals = new List<Animal>();
-            Console.WriteLine("cats");
-            foreach (var item in originalCatCollection.GetAll())
-            {
-                Console.WriteLine(item.Name);
-            }
+            //Console.WriteLine("cats");
+            //foreach (var item in covariantWithBaseType.GetAll())
+            //{
+            //    Console.WriteLine(item.Name);
+            //}
 
-            Console.WriteLine("dogs");
+            //Console.WriteLine("dogs");
 
-            foreach (var item in originalDogCollection.GetAll())
-            {
-                Console.WriteLine(item.Name);
-            }
+            //foreach (var item in covariantDogWithBaseType.GetAll())
+            //{
+            //    Console.WriteLine(item.Name);
+            //}
             //Or
             Console.WriteLine("Animals");
             animals.AddRange(covariantWithBaseType.GetAll());
@@ -127,7 +127,7 @@
             }
             else
             {
-                return x.GetHashCode().CompareTo(y);
+                return x.GetHashCode().CompareTo(y.GetHashCode());
             }
         }
     }
