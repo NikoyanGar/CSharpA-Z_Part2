@@ -453,27 +453,33 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Covariance_simple", "Lesson
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lesson_Delegates", "Lesson_Delegates", "{8C53E74D-1800-47F0-A291-BF61F832F3CC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Delegates", "Lesson_Delegates\001_Delegates\001_Delegates.csproj", "{9D02D97F-EFE2-4BDB-A0AF-563E520B740C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "001_Delegates", "Lesson_Delegates\001_Delegates\001_Delegates.csproj", "{9D02D97F-EFE2-4BDB-A0AF-563E520B740C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "002_Delegates", "Lesson_Delegates\002_Delegates\002_Delegates.csproj", "{8D543D81-A62F-4C5F-ACEF-AF3C1AA9A5DB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "002_Delegates", "Lesson_Delegates\002_Delegates\002_Delegates.csproj", "{8D543D81-A62F-4C5F-ACEF-AF3C1AA9A5DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "003_Delegates", "Lesson_Delegates\003_Delegates\003_Delegates.csproj", "{CCB7B9C4-98D5-4AF7-B571-C016F02B1FE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "003_Delegates", "Lesson_Delegates\003_Delegates\003_Delegates.csproj", "{CCB7B9C4-98D5-4AF7-B571-C016F02B1FE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "004_Delegates", "Lesson_Delegates\004_Delegates\004_Delegates.csproj", "{F7CDBC01-440D-43D5-81F9-6DA90E92BD18}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "004_Delegates", "Lesson_Delegates\004_Delegates\004_Delegates.csproj", "{F7CDBC01-440D-43D5-81F9-6DA90E92BD18}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "005_Delegates", "Lesson_Delegates\005_Delegates\005_Delegates.csproj", "{99A1D396-5E5E-43E1-9C28-3F327A75DFCC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "005_Delegates", "Lesson_Delegates\005_Delegates\005_Delegates.csproj", "{99A1D396-5E5E-43E1-9C28-3F327A75DFCC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "006_Delegates", "Lesson_Delegates\006_Delegates\006_Delegates.csproj", "{7D87BC04-D953-4EF0-84EC-2FDC71CDB455}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "006_Delegates", "Lesson_Delegates\006_Delegates\006_Delegates.csproj", "{7D87BC04-D953-4EF0-84EC-2FDC71CDB455}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "007_Delegates", "Lesson_Delegates\007_Delegates\007_Delegates.csproj", "{E996F53B-C35F-414F-9FBE-C2CC4445990E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "007_Delegates", "Lesson_Delegates\007_Delegates\007_Delegates.csproj", "{E996F53B-C35F-414F-9FBE-C2CC4445990E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "008_Delegates_Func", "Lesson_Delegates\008_Delegates_Func\008_Delegates_Func.csproj", "{34525D03-8104-44D2-A5F1-05C1098E13D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "008_Delegates_Func", "Lesson_Delegates\008_Delegates_Func\008_Delegates_Func.csproj", "{34525D03-8104-44D2-A5F1-05C1098E13D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "009_Delegates_Fun", "Lesson_Delegates\009_Delegates_Fun\009_Delegates_Fun.csproj", "{51B66541-8239-4A0F-A98E-401C26EB6BC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "009_Delegates_Fun", "Lesson_Delegates\009_Delegates_Fun\009_Delegates_Fun.csproj", "{51B66541-8239-4A0F-A98E-401C26EB6BC2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "010_Delegates_Predicate", "Lesson_Delegates\010_Delegates_Predicate\010_Delegates_Predicate.csproj", "{B7600024-9848-4D9D-988A-84CE8AC7D1C7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "010_Delegates_Predicate", "Lesson_Delegates\010_Delegates_Predicate\010_Delegates_Predicate.csproj", "{B7600024-9848-4D9D-988A-84CE8AC7D1C7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "011_Delegates_Real_world_example", "Lesson_Delegates\011_Delegates_Real_world_example\011_Delegates_Real_world_example.csproj", "{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "011_Delegates_Real_world_example", "Lesson_Delegates\011_Delegates_Real_world_example\011_Delegates_Real_world_example.csproj", "{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Example01_Disposable", "Lesson_GC\Disposable\001_Example01_Disposable\001_Example01_Disposable.csproj", "{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Example02_Disposable", "Lesson_GC\Disposable\001_Example02_Disposable\001_Example02_Disposable.csproj", "{F28AFB15-609A-4FBE-ADC6-988A0232CC7C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "001_Example03_Disposable", "Lesson_GC\Disposable\001_Example03_Disposable\001_Example03_Disposable.csproj", "{B339EF25-450A-47B2-8C95-0708D398C621}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -1293,6 +1299,18 @@ Global
 		{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F28AFB15-609A-4FBE-ADC6-988A0232CC7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F28AFB15-609A-4FBE-ADC6-988A0232CC7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F28AFB15-609A-4FBE-ADC6-988A0232CC7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F28AFB15-609A-4FBE-ADC6-988A0232CC7C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B339EF25-450A-47B2-8C95-0708D398C621}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B339EF25-450A-47B2-8C95-0708D398C621}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B339EF25-450A-47B2-8C95-0708D398C621}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B339EF25-450A-47B2-8C95-0708D398C621}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -1510,6 +1528,9 @@ Global
 		{51B66541-8239-4A0F-A98E-401C26EB6BC2} = {8C53E74D-1800-47F0-A291-BF61F832F3CC}
 		{B7600024-9848-4D9D-988A-84CE8AC7D1C7} = {8C53E74D-1800-47F0-A291-BF61F832F3CC}
 		{4B04FB6E-4419-469D-A52D-9A2A2E8A61A7} = {8C53E74D-1800-47F0-A291-BF61F832F3CC}
+		{2C0BB7D2-F87B-42F6-B0D4-96AA27E27794} = {BBB4B664-F040-4836-8DF9-454940911CB2}
+		{F28AFB15-609A-4FBE-ADC6-988A0232CC7C} = {BBB4B664-F040-4836-8DF9-454940911CB2}
+		{B339EF25-450A-47B2-8C95-0708D398C621} = {BBB4B664-F040-4836-8DF9-454940911CB2}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {ECC42B67-0468-480F-AED4-ABBEDE5644AB}
