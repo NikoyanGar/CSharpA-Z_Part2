@@ -3,45 +3,19 @@
     //https://stackoverflow.com/questions/31497/where-do-i-use-delegates
     internal class Program
     {
-        // Define a delegate type for the funeral delegate
-        delegate void FuneralDelegate(string condolences);
-
         static void Main(string[] args)
         {
-            // Create an instance of the FuneralDelegate
-            FuneralDelegate funeralDelegate;
+            // Create a button instance
+            Button button = new Button();
 
-            // Assign a particular person to the funeral delegate
-            funeralDelegate = AttendFuneral;
+            // Connect the button to a delegate
+            button.Click += ()=> { };
 
-            // Invoke the funeral delegate
-            funeralDelegate("Sending condolences and kind words");
-
-            Console.WriteLine("Hello, World!");
-
-            //// Create a button instance
-            //Button button = new Button();
-
-            //// Connect the button to a delegate
-            //button.Click += HandleButtonClick;
-
-            //// Simulate button click
-            //button.OnClick();
+            // Simulate button click
+            button.OnClick();
         }
 
-        // Method to attend the funeral
-        static void AttendFuneral(string condolences)
-        {
-            Console.WriteLine("Attending the funeral...");
-            Console.WriteLine("Sending: " + condolences);
-            Console.WriteLine("Receiving: Good will");
-        }
-
-        // Method to handle button click
-        static void HandleButtonClick()
-        {
-            Console.WriteLine("Button clicked!");
-        }
+ 
     }
 
     // Button class
